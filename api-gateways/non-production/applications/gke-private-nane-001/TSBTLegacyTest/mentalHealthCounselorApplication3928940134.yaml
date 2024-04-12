@@ -1,0 +1,14 @@
+_format_version: '1.1'
+_info:
+  defaults: {}
+  select_tags:
+    - app_mentalHealthCounselorApplication3928940134
+    - consumer
+_workspace: TSBTLegacyTest
+consumers:
+  - username: mentalHealthCounselorApplication3928940134
+    custom_id: 417be8ca-c738-4574-86cc-6cb47055a7a6
+    acls: []
+    basicauth_credentials:
+      - password: $SECRET_mentalHealthCounselorApplication3928940134_NP$
+        username: 417BE8CA-C738-4574-86CC-6CB47055A7A6
